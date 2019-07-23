@@ -8,15 +8,14 @@ podTemplate(label: label, yaml: libraryResource('kubernetes/builder.yaml')) {
             commonUtil.writeGlobalGITConfigFile()
             //prepare helm before execution
             kubernetesUtil.prepareHelmRepo()
-            ws('/charts') {
-                //clone into nfs server path
-                checkout scm
-                sh 'helm repo index --url https://charts.credit2go.cn/candidates/'
-                sh 'helm repo index --url https://charts.credit2go.cn/releases/'
-                sh 'git add -A *'
-                sh 'git commit -a -m "sync with local server"'
-                sh 'git push'
-            }
+            sh '''cd /charts
+                  git pull
+                  helm repo index --url https://charts.credit2go.cn/candidates/ candidates
+                  helm repo index --url https://charts.credit2go.cn/releases/ releases
+                  git add -A *
+                  git commit -a -m "sync with local server"
+                  git push
+            '''
         }
     }
 }

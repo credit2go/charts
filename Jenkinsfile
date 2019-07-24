@@ -5,7 +5,7 @@ podTemplate(label: label, yaml: libraryResource('kubernetes/builder.yaml')) {
     node(label) {
         container('slave') {
             //config git to enable commit and push to github
-            commonUtil.writeGlobalGITConfigFile()
+            gitlabUtil.writeGlobalGITConfigFile()
             //prepare helm before execution
             kubernetesUtil.prepareHelmRepo()
             sh '''cd /charts

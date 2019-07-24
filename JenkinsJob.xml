@@ -1,0 +1,53 @@
+<flow-definition plugin="workflow-job@2.33">
+    <actions/>
+    <description/>
+    <keepDependencies>false</keepDependencies>
+    <properties>
+        <hudson.plugins.jira.JiraProjectProperty plugin="jira@3.0.8"/>
+        <jenkins.model.BuildDiscarderProperty>
+            <strategy class="hudson.tasks.LogRotator">
+                <daysToKeep>30</daysToKeep>
+                <numToKeep>7</numToKeep>
+                <artifactDaysToKeep>-1</artifactDaysToKeep>
+                <artifactNumToKeep>-1</artifactNumToKeep>
+            </strategy>
+        </jenkins.model.BuildDiscarderProperty>
+        <org.jenkinsci.plugins.workflow.job.properties.DisableConcurrentBuildsJobProperty/>
+        <com.dabsquared.gitlabjenkins.connection.GitLabConnectionProperty plugin="gitlab-plugin@1.5.12">
+            <gitLabConnection>GitLab</gitLabConnection>
+        </com.dabsquared.gitlabjenkins.connection.GitLabConnectionProperty>
+        <org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
+            <triggers>
+                <hudson.triggers.TimerTrigger>
+                    <spec>@hourly</spec>
+                </hudson.triggers.TimerTrigger>
+            </triggers>
+        </org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
+    </properties>
+    <definition class="org.jenkinsci.plugins.workflow.cps.CpsScmFlowDefinition" plugin="workflow-cps@2.72">
+        <scm class="hudson.plugins.git.GitSCM" plugin="git@3.10.1">
+            <configVersion>2</configVersion>
+            <userRemoteConfigs>
+                <hudson.plugins.git.UserRemoteConfig>
+                    <url>https://github.com/credit2go/charts.git</url>
+                    <credentialsId>GitHub</credentialsId>
+                </hudson.plugins.git.UserRemoteConfig>
+            </userRemoteConfigs>
+            <branches>
+                <hudson.plugins.git.BranchSpec>
+                    <name>*/master</name>
+                </hudson.plugins.git.BranchSpec>
+            </branches>
+            <doGenerateSubmoduleConfigurations>false</doGenerateSubmoduleConfigurations>
+            <submoduleCfg class="list"/>
+            <extensions>
+                <hudson.plugins.git.extensions.impl.IgnoreNotifyCommit/>
+                <hudson.plugins.git.extensions.impl.AuthorInChangelog/>
+            </extensions>
+        </scm>
+        <scriptPath>Jenkinsfile</scriptPath>
+        <lightweight>true</lightweight>
+    </definition>
+    <triggers/>
+    <disabled>false</disabled>
+</flow-definition>

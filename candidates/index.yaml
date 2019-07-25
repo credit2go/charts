@@ -3,7 +3,7 @@ entries:
   apigateway:
   - apiVersion: v1
     appVersion: 0.0.1-SNAPSHOT
-    created: 2019-07-25T13:14:05.707718134Z
+    created: 2019-07-25T14:14:12.091986998Z
     description: A Helm chart for Kubernetes for apigateway
     digest: 8e01c47be4036776bd7418aec4886c0ca09ad97529005bbb6820db73635f38cb
     name: apigateway
@@ -13,7 +13,7 @@ entries:
   fitness:
   - apiVersion: v1
     appVersion: 0.0.2-SNAPSHOT
-    created: 2019-07-25T13:14:05.703925637Z
+    created: 2019-07-25T14:14:12.087413051Z
     description: A Helm chart for Kubernetes for fitness
     digest: c266441b20476cf7acf28b3b1cba6c75f6616a8abd541687f24e99e417aabce6
     name: fitness
@@ -23,7 +23,7 @@ entries:
   fitness-operation:
   - apiVersion: v1
     appVersion: 0.0.2-SNAPSHOT
-    created: 2019-07-25T13:14:05.705854111Z
+    created: 2019-07-25T14:14:12.089348454Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: 9fa31d06ebdb81c2c5a7403b94517af51ba8ddd897fc3107ee1f1a4e479186b1
     name: fitness-operation
@@ -33,7 +33,7 @@ entries:
   operation:
   - apiVersion: v1
     appVersion: 1.0.33-SNAPSHOT
-    created: 2019-07-25T13:14:05.700812425Z
+    created: 2019-07-25T14:14:12.083651334Z
     description: A Helm chart for Kubernetes for operation
     digest: 312622aa0ae3afcbadc0046728825b03ec0a8b2adb0b07517af5464764bdc3c7
     name: operation
@@ -43,11 +43,11 @@ entries:
   shopping:
   - apiVersion: v1
     appVersion: 1.0.33-SNAPSHOT
-    created: 2019-07-25T13:14:05.702286515Z
+    created: 2019-07-25T14:14:12.085279772Z
     description: A Helm chart for Kubernetes for shopping
     digest: 1ce5d14bb1bf387b14b7c1badb65dd5a0e48205976f8747116e9357ac2b050d3
     name: shopping
     urls:
     - https://charts.credit2go.cn/candidates/eshop/shopping-1.0.33-SNAPSHOT.tgz
     version: 1.0.33-SNAPSHOT
-generated: 2019-07-25T13:14:05.698192419Z
+generated: 2019-07-25T14:14:12.081235687Z

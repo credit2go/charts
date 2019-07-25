@@ -3,11 +3,11 @@ entries:
   apigateway:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-07-25T08:14:13.813237261Z
+    created: 2019-07-25T09:14:05.071547465Z
     description: A Helm chart for Kubernetes for apigateway
     digest: 1b21cde1c7af93db22f922f4310b9049e93546e0600331febd98ad3ff3052889
     name: apigateway
     urls:
     - https://charts.credit2go.cn/releases/gateway/apigateway-1.0.1.tgz
     version: 1.0.1
-generated: 2019-07-25T08:14:13.803773224Z
+generated: 2019-07-25T09:14:05.06968972Z

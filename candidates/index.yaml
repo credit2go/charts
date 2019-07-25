@@ -3,11 +3,31 @@ entries:
   apigateway:
   - apiVersion: v1
     appVersion: 0.0.1-SNAPSHOT
-    created: 2019-07-25T02:14:18.744964977Z
+    created: 2019-07-25T03:14:09.22747006Z
     description: A Helm chart for Kubernetes for apigateway
     digest: 8e01c47be4036776bd7418aec4886c0ca09ad97529005bbb6820db73635f38cb
     name: apigateway
     urls:
     - https://charts.credit2go.cn/candidates/gateway/apigateway-0.0.1-SNAPSHOT.tgz
     version: 0.0.1-SNAPSHOT
-generated: 2019-07-25T02:14:18.732819612Z
+  fitness:
+  - apiVersion: v1
+    appVersion: 0.0.2-SNAPSHOT
+    created: 2019-07-25T03:14:09.223561396Z
+    description: A Helm chart for Kubernetes for fitness
+    digest: c266441b20476cf7acf28b3b1cba6c75f6616a8abd541687f24e99e417aabce6
+    name: fitness
+    urls:
+    - https://charts.credit2go.cn/candidates/fitness/fitness-0.0.2-SNAPSHOT.tgz
+    version: 0.0.2-SNAPSHOT
+  fitness-operation:
+  - apiVersion: v1
+    appVersion: 0.0.2-SNAPSHOT
+    created: 2019-07-25T03:14:09.225005821Z
+    description: A Helm chart for Kubernetes for fitness-operation
+    digest: 9fa31d06ebdb81c2c5a7403b94517af51ba8ddd897fc3107ee1f1a4e479186b1
+    name: fitness-operation
+    urls:
+    - https://charts.credit2go.cn/candidates/fitness/fitness-operation-0.0.2-SNAPSHOT.tgz
+    version: 0.0.2-SNAPSHOT
+generated: 2019-07-25T03:14:09.221500043Z

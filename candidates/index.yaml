@@ -3,7 +3,7 @@ entries:
   apigateway:
   - apiVersion: v1
     appVersion: 0.0.1-SNAPSHOT
-    created: 2019-07-26T09:15:00.397113026Z
+    created: 2019-07-26T10:19:27.06736724Z
     description: A Helm chart for Kubernetes for apigateway
     digest: 8e01c47be4036776bd7418aec4886c0ca09ad97529005bbb6820db73635f38cb
     name: apigateway
@@ -13,7 +13,7 @@ entries:
   fitness:
   - apiVersion: v1
     appVersion: 0.0.2-SNAPSHOT
-    created: 2019-07-26T09:15:00.392355562Z
+    created: 2019-07-26T10:19:27.050981174Z
     description: A Helm chart for Kubernetes for fitness
     digest: 12664bbf943c616988d00234092fbc1e995a68b6f323d8da0ece6749cb94d431
     name: fitness
@@ -23,7 +23,7 @@ entries:
   fitness-operation:
   - apiVersion: v1
     appVersion: 0.0.2-SNAPSHOT
-    created: 2019-07-26T09:15:00.394713178Z
+    created: 2019-07-26T10:19:27.055898647Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: 56a149d896acd2ef3cc68b0adbde47d54b3f90071a40929274225f8f37d5364a
     name: fitness-operation
@@ -33,7 +33,7 @@ entries:
   lottery-manager:
   - apiVersion: v1
     appVersion: 0.0.1-SNAPSHOT
-    created: 2019-07-26T09:15:00.39944346Z
+    created: 2019-07-26T10:19:27.078779903Z
     description: A Helm chart for Kubernetes for lottery-manager
     digest: 9fb32a22bab02bf7a3dc9635a2703b8c542c12393cdf3ff9caa9e3fa3bf3ccf9
     name: lottery-manager
@@ -43,7 +43,7 @@ entries:
   lottery-server:
   - apiVersion: v1
     appVersion: 0.0.1-SNAPSHOT
-    created: 2019-07-26T09:15:00.402127397Z
+    created: 2019-07-26T10:19:27.089308223Z
     description: A Helm chart for Kubernetes for lottery-server
     digest: 907fe0c52e6043de6e242eb07249c98790e30fb4c248e1258e7de518b952b344
     name: lottery-server
@@ -53,7 +53,7 @@ entries:
   operation:
   - apiVersion: v1
     appVersion: 1.0.33-SNAPSHOT
-    created: 2019-07-26T09:15:00.387750318Z
+    created: 2019-07-26T10:19:27.036352203Z
     description: A Helm chart for Kubernetes for operation
     digest: 312622aa0ae3afcbadc0046728825b03ec0a8b2adb0b07517af5464764bdc3c7
     name: operation
@@ -63,11 +63,11 @@ entries:
   shopping:
   - apiVersion: v1
     appVersion: 1.0.33-SNAPSHOT
-    created: 2019-07-26T09:15:00.389943622Z
+    created: 2019-07-26T10:19:27.042857285Z
     description: A Helm chart for Kubernetes for shopping
     digest: 1ce5d14bb1bf387b14b7c1badb65dd5a0e48205976f8747116e9357ac2b050d3
     name: shopping
     urls:
     - https://charts.credit2go.cn/candidates/eshop/shopping-1.0.33-SNAPSHOT.tgz
     version: 1.0.33-SNAPSHOT
-generated: 2019-07-26T09:15:00.38495972Z
+generated: 2019-07-26T10:19:27.015910292Z

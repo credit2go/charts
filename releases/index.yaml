@@ -3,7 +3,7 @@ entries:
   apigateway:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-07-29T16:14:56.706473714Z
+    created: 2019-07-29T17:14:50.737226704Z
     description: A Helm chart for Kubernetes for apigateway
     digest: 59841ba5a7422305318125e2af7edef31df4cae92774539f7845e3d27b6c021d
     name: apigateway
@@ -13,11 +13,11 @@ entries:
   notifysvc:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-07-29T16:14:56.70801371Z
+    created: 2019-07-29T17:14:50.739915001Z
     description: A Helm chart for Kubernetes for notifysvc
     digest: 53725f72f81f798420ba22cd5993438c8d4e9c925384d5416ffdf19ed15ef1c9
     name: notifysvc
     urls:
     - https://charts.credit2go.cn/releases/notify/notifysvc-1.0.1.tgz
     version: 1.0.1
-generated: 2019-07-29T16:14:56.703883926Z
+generated: 2019-07-29T17:14:50.733625809Z

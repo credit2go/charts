@@ -3,21 +3,51 @@ entries:
   apigateway:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-07-30T06:15:06.380977509Z
+    created: 2019-07-30T07:14:52.825595678Z
     description: A Helm chart for Kubernetes for apigateway
     digest: 59841ba5a7422305318125e2af7edef31df4cae92774539f7845e3d27b6c021d
     name: apigateway
     urls:
     - https://charts.credit2go.cn/releases/gateway/apigateway-1.0.1.tgz
     version: 1.0.1
+  instalment:
+  - apiVersion: v1
+    appVersion: 1.0.1
+    created: 2019-07-30T07:14:52.827962414Z
+    description: A Helm chart for Kubernetes for instalment
+    digest: a1046fe08c13aeff11c29ae64f32f2e64064bc60bee9c6f10caacb3fbc1741a5
+    name: instalment
+    urls:
+    - https://charts.credit2go.cn/releases/instalment/instalment-1.0.1.tgz
+    version: 1.0.1
+  lottery-manager:
+  - apiVersion: v1
+    appVersion: 1.0.1
+    created: 2019-07-30T07:14:52.830621955Z
+    description: A Helm chart for Kubernetes for lottery-manager
+    digest: b711ba03518b646844cb2eb1134fef9b26dbf2d9ee5a8b4956164ab5824b6d30
+    name: lottery-manager
+    urls:
+    - https://charts.credit2go.cn/releases/lottery/lottery-manager-1.0.1.tgz
+    version: 1.0.1
+  lottery-server:
+  - apiVersion: v1
+    appVersion: 1.0.1
+    created: 2019-07-30T07:14:52.832213895Z
+    description: A Helm chart for Kubernetes for lottery-server
+    digest: a56726c3041b0f9f07cc53f8b8995047fe5e12a0241df8729b97339250a8a27d
+    name: lottery-server
+    urls:
+    - https://charts.credit2go.cn/releases/lottery/lottery-server-1.0.1.tgz
+    version: 1.0.1
   notifysvc:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-07-30T06:15:06.383423753Z
+    created: 2019-07-30T07:14:52.834070851Z
     description: A Helm chart for Kubernetes for notifysvc
     digest: 53725f72f81f798420ba22cd5993438c8d4e9c925384d5416ffdf19ed15ef1c9
     name: notifysvc
     urls:
     - https://charts.credit2go.cn/releases/notify/notifysvc-1.0.1.tgz
     version: 1.0.1
-generated: 2019-07-30T06:15:06.377859004Z
+generated: 2019-07-30T07:14:52.823274188Z

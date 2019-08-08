@@ -3,7 +3,7 @@ entries:
   apigateway:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-08-08T01:15:37.180701413Z
+    created: 2019-08-08T02:15:43.367694486Z
     description: A Helm chart for Kubernetes for apigateway
     digest: 59841ba5a7422305318125e2af7edef31df4cae92774539f7845e3d27b6c021d
     name: apigateway
@@ -13,7 +13,7 @@ entries:
   instalment:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-08-08T01:15:37.184299063Z
+    created: 2019-08-08T02:15:43.371255873Z
     description: A Helm chart for Kubernetes for instalment
     digest: a1046fe08c13aeff11c29ae64f32f2e64064bc60bee9c6f10caacb3fbc1741a5
     name: instalment
@@ -23,7 +23,7 @@ entries:
   lottery-manager:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-08-08T01:15:37.187952111Z
+    created: 2019-08-08T02:15:43.374749129Z
     description: A Helm chart for Kubernetes for lottery-manager
     digest: b711ba03518b646844cb2eb1134fef9b26dbf2d9ee5a8b4956164ab5824b6d30
     name: lottery-manager
@@ -33,7 +33,7 @@ entries:
   lottery-server:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-08-08T01:15:37.191966778Z
+    created: 2019-08-08T02:15:43.377648325Z
     description: A Helm chart for Kubernetes for lottery-server
     digest: a56726c3041b0f9f07cc53f8b8995047fe5e12a0241df8729b97339250a8a27d
     name: lottery-server
@@ -43,7 +43,7 @@ entries:
   notifysvc:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-08-08T01:15:37.196205236Z
+    created: 2019-08-08T02:15:43.381436877Z
     description: A Helm chart for Kubernetes for notifysvc
     digest: c5a50bed6c42c3f50fc51697854d5402dd0d94056b1ab026725edb381a9c17a6
     name: notifysvc
@@ -53,11 +53,11 @@ entries:
   oms:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-08-08T01:15:37.198483198Z
+    created: 2019-08-08T02:15:43.387662279Z
     description: A Helm chart for Kubernetes for oms
     digest: b24dbbaa3315b19c0ff3eaa0761d5d039222aed0b4a5738b6186a0f44a5445a2
     name: oms
     urls:
     - https://charts.credit2go.cn/releases/oms/oms-1.0.1.tgz
     version: 1.0.1
-generated: 2019-08-08T01:15:37.176630241Z
+generated: 2019-08-08T02:15:43.364193918Z

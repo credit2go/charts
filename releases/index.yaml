@@ -3,7 +3,7 @@ entries:
   apigateway:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-08-21T05:15:05.418869326Z
+    created: 2019-08-21T06:15:06.042616709Z
     description: A Helm chart for Kubernetes for apigateway
     digest: 86c0b009435a700c78821bf273fb934ff8617b468304357606e5e84fccfa5f81
     name: apigateway
@@ -13,7 +13,7 @@ entries:
   fitness:
   - apiVersion: v1
     appVersion: 0.0.5
-    created: 2019-08-21T05:15:05.405869444Z
+    created: 2019-08-21T06:15:06.029637861Z
     description: A Helm chart for Kubernetes for fitness
     digest: 0eddbe79482d7593e47c5bbdb1ee3aba5ea299b43149ec2c63708e9c27ef9a0a
     name: fitness
@@ -22,7 +22,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: 2019-08-21T05:15:05.401182668Z
+    created: 2019-08-21T06:15:06.025762502Z
     description: A Helm chart for Kubernetes for fitness
     digest: 0f1215b4e541256c5cf2db576185e25b8cc56fffc8930339c6c34e7b5bb3f92c
     name: fitness
@@ -32,7 +32,7 @@ entries:
   fitness-operation:
   - apiVersion: v1
     appVersion: 0.0.5
-    created: 2019-08-21T05:15:05.414773761Z
+    created: 2019-08-21T06:15:06.038096718Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: 3562d8b67e164e23e03dad847e038cbd818ba9bc6a2683d8e7e2d33c0834e18a
     name: fitness-operation
@@ -41,7 +41,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: 2019-08-21T05:15:05.410741099Z
+    created: 2019-08-21T06:15:06.033878566Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: e7398fc3dcbb990f43fc0ea492c3ee298cf3358975344c1461f574708d4cd4c0
     name: fitness-operation
@@ -51,7 +51,7 @@ entries:
   instalment:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-08-21T05:15:05.423357624Z
+    created: 2019-08-21T06:15:06.046856817Z
     description: A Helm chart for Kubernetes for instalment
     digest: a1046fe08c13aeff11c29ae64f32f2e64064bc60bee9c6f10caacb3fbc1741a5
     name: instalment
@@ -61,7 +61,7 @@ entries:
   lottery-manager:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-08-21T05:15:05.438470863Z
+    created: 2019-08-21T06:15:06.050917428Z
     description: A Helm chart for Kubernetes for lottery-manager
     digest: b711ba03518b646844cb2eb1134fef9b26dbf2d9ee5a8b4956164ab5824b6d30
     name: lottery-manager
@@ -71,7 +71,7 @@ entries:
   lottery-server:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-08-21T05:15:05.446337876Z
+    created: 2019-08-21T06:15:06.054880184Z
     description: A Helm chart for Kubernetes for lottery-server
     digest: a56726c3041b0f9f07cc53f8b8995047fe5e12a0241df8729b97339250a8a27d
     name: lottery-server
@@ -81,7 +81,7 @@ entries:
   notifysvc:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-08-21T05:15:05.45117399Z
+    created: 2019-08-21T06:15:06.058976071Z
     description: A Helm chart for Kubernetes for notifysvc
     digest: c5a50bed6c42c3f50fc51697854d5402dd0d94056b1ab026725edb381a9c17a6
     name: notifysvc
@@ -91,7 +91,7 @@ entries:
   oms:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-08-21T05:15:05.456062065Z
+    created: 2019-08-21T06:15:06.063054976Z
     description: A Helm chart for Kubernetes for oms
     digest: b24dbbaa3315b19c0ff3eaa0761d5d039222aed0b4a5738b6186a0f44a5445a2
     name: oms
@@ -101,7 +101,7 @@ entries:
   zlshop-operation:
   - apiVersion: v1
     appVersion: 1.0.32
-    created: 2019-08-21T05:15:05.460644221Z
+    created: 2019-08-21T06:15:06.067090285Z
     description: A Helm chart for Kubernetes for zlshop-operation
     digest: 83a1ce8c75167754b2e0bb495eecb72eb1fa51abd138ac2bfb56fbc5e51ad661
     name: zlshop-operation
@@ -111,11 +111,11 @@ entries:
   zlshop-shopping:
   - apiVersion: v1
     appVersion: 1.0.32
-    created: 2019-08-21T05:15:05.468088701Z
+    created: 2019-08-21T06:15:06.071439663Z
     description: A Helm chart for Kubernetes for zlshop-shopping
     digest: 70cf21a549ff0c9912d5636d4b71ec8584f619b02dbb294e78814ed057241ea4
     name: zlshop-shopping
     urls:
     - https://charts.credit2go.cn/releases/zlshop/zlshop-shopping-1.0.32.tgz
     version: 1.0.32
-generated: 2019-08-21T05:15:05.395825435Z
+generated: 2019-08-21T06:15:06.020690088Z

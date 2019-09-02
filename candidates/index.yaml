@@ -3,7 +3,7 @@ entries:
   apigateway:
   - apiVersion: v1
     appVersion: 1.0.2-SNAPSHOT
-    created: 2019-09-02T09:16:43.696308202Z
+    created: 2019-09-02T10:14:57.054144235Z
     description: A Helm chart for Kubernetes for apigateway
     digest: d34c394203e5e0501276dcad79d12e2b74b040ca258d180b48eb8bfc4dd17323
     name: apigateway
@@ -12,7 +12,7 @@ entries:
     version: 1.0.2-SNAPSHOT
   - apiVersion: v1
     appVersion: 0.0.1-SNAPSHOT
-    created: 2019-09-02T09:16:43.681063625Z
+    created: 2019-09-02T10:14:57.045207251Z
     description: A Helm chart for Kubernetes for apigateway
     digest: 25dde1bec2ca7c9a19303aacda29b5eb3f0a17bf9b5edc0e42b13fced8a29bed
     name: apigateway
@@ -22,9 +22,9 @@ entries:
   fitness:
   - apiVersion: v1
     appVersion: 0.0.2-SNAPSHOT
-    created: 2019-09-02T09:16:43.653784649Z
+    created: 2019-09-02T10:14:57.029903936Z
     description: A Helm chart for Kubernetes for fitness
-    digest: 3baa8362e9edaa01ccba9a3f8da4dda86c3c90f258d02cc45058b0ec17efae04
+    digest: e5f360a7e417a6edce9a39d8a2149c062d7dccd747c78dc85d2899ba2e207d00
     name: fitness
     urls:
     - https://charts.credit2go.cn/candidates/fitness/fitness-0.0.2-SNAPSHOT.tgz
@@ -32,9 +32,9 @@ entries:
   fitness-operation:
   - apiVersion: v1
     appVersion: 0.0.2-SNAPSHOT
-    created: 2019-09-02T09:16:43.660665666Z
+    created: 2019-09-02T10:14:57.034060559Z
     description: A Helm chart for Kubernetes for fitness-operation
-    digest: 1ee58ecf5923a485aaa48f71b1ac53943d67418e68322475b74552b7717e8c9b
+    digest: d9aea0efd315bf16a1b51e3bdbf4eeee5fbac1d8d9e1a58c7fdfdd01c8a6a0e8
     name: fitness-operation
     urls:
     - https://charts.credit2go.cn/candidates/fitness/fitness-operation-0.0.2-SNAPSHOT.tgz
@@ -42,7 +42,7 @@ entries:
   instalment:
   - apiVersion: v1
     appVersion: 0.0.1-SNAPSHOT
-    created: 2019-09-02T09:16:43.713303655Z
+    created: 2019-09-02T10:14:57.062959757Z
     description: A Helm chart for Kubernetes for instalment
     digest: afd67da6278f72bc9277f14a07607c3271acc89e2cd90042921d33d28788f3b1
     name: instalment
@@ -52,7 +52,7 @@ entries:
   lottery-manager:
   - apiVersion: v1
     appVersion: 1.0.2-SNAPSHOT
-    created: 2019-09-02T09:16:43.763714341Z
+    created: 2019-09-02T10:14:57.079982853Z
     description: A Helm chart for Kubernetes for lottery-manager
     digest: 3947bff5bb721ba2aa06e9822083b66fce2f80513b7bd59c4d486501734ba080
     name: lottery-manager
@@ -61,7 +61,7 @@ entries:
     version: 1.0.2-SNAPSHOT
   - apiVersion: v1
     appVersion: 0.0.1-SNAPSHOT
-    created: 2019-09-02T09:16:43.732922163Z
+    created: 2019-09-02T10:14:57.074184937Z
     description: A Helm chart for Kubernetes for lottery-manager
     digest: 9fb32a22bab02bf7a3dc9635a2703b8c542c12393cdf3ff9caa9e3fa3bf3ccf9
     name: lottery-manager
@@ -71,7 +71,7 @@ entries:
   lottery-server:
   - apiVersion: v1
     appVersion: 1.0.2-SNAPSHOT
-    created: 2019-09-02T09:16:43.829453212Z
+    created: 2019-09-02T10:14:57.095056541Z
     description: A Helm chart for Kubernetes for lottery-server
     digest: ea8965b167df50d5d2e11f1ec19582e75300f819b0d88184479aee83db458d22
     name: lottery-server
@@ -80,7 +80,7 @@ entries:
     version: 1.0.2-SNAPSHOT
   - apiVersion: v1
     appVersion: 0.0.1-SNAPSHOT
-    created: 2019-09-02T09:16:43.817065355Z
+    created: 2019-09-02T10:14:57.09053198Z
     description: A Helm chart for Kubernetes for lottery-server
     digest: 907fe0c52e6043de6e242eb07249c98790e30fb4c248e1258e7de518b952b344
     name: lottery-server
@@ -90,7 +90,7 @@ entries:
   notifysvc:
   - apiVersion: v1
     appVersion: 0.0.1-SNAPSHOT
-    created: 2019-09-02T09:16:43.836245024Z
+    created: 2019-09-02T10:14:57.098023263Z
     description: A Helm chart for Kubernetes for notifysvc
     digest: 03ff11dedd78fb852df1b51c7a8cedab256b33f9e5397e2300c865ee06427419
     name: notifysvc
@@ -100,7 +100,7 @@ entries:
   oms:
   - apiVersion: v1
     appVersion: 0.0.3-SNAPSHOT
-    created: 2019-09-02T09:16:43.853121557Z
+    created: 2019-09-02T10:14:57.100907072Z
     description: A Helm chart for Kubernetes for oms
     digest: c0a3bfe3f21dfbf4018355087e02e94d8afebb22d30240e27472e8dba65a40fd
     name: oms
@@ -110,7 +110,7 @@ entries:
   operation:
   - apiVersion: v1
     appVersion: 1.0.33-SNAPSHOT
-    created: 2019-09-02T09:16:43.623314696Z
+    created: 2019-09-02T10:14:57.002312153Z
     description: A Helm chart for Kubernetes for operation
     digest: 312622aa0ae3afcbadc0046728825b03ec0a8b2adb0b07517af5464764bdc3c7
     name: operation
@@ -120,7 +120,7 @@ entries:
   shopping:
   - apiVersion: v1
     appVersion: 1.0.33-SNAPSHOT
-    created: 2019-09-02T09:16:43.638802506Z
+    created: 2019-09-02T10:14:57.017248915Z
     description: A Helm chart for Kubernetes for shopping
     digest: 1ce5d14bb1bf387b14b7c1badb65dd5a0e48205976f8747116e9357ac2b050d3
     name: shopping
@@ -130,7 +130,7 @@ entries:
   zlshop-operation:
   - apiVersion: v1
     appVersion: 1.0.32-SNAPSHOT
-    created: 2019-09-02T09:16:43.882362303Z
+    created: 2019-09-02T10:14:57.111878613Z
     description: A Helm chart for Kubernetes for zlshop-operation
     digest: 956cef84732a34a53cba8477d41d19bb50513433fdf70ec62d6d0b319adc8f03
     name: zlshop-operation
@@ -139,7 +139,7 @@ entries:
     version: 1.0.32-SNAPSHOT
   - apiVersion: v1
     appVersion: 1.0.2-SNAPSHOT
-    created: 2019-09-02T09:16:43.876052837Z
+    created: 2019-09-02T10:14:57.109058006Z
     description: A Helm chart for Kubernetes for zlshop-operation
     digest: ecb2d153f4b62f23f141f97108b50c38df916c75bf8db819b590e6b4369b8344
     name: zlshop-operation
@@ -149,7 +149,7 @@ entries:
   zlshop-shopping:
   - apiVersion: v1
     appVersion: 1.0.32-SNAPSHOT
-    created: 2019-09-02T09:16:43.92173897Z
+    created: 2019-09-02T10:14:57.145753158Z
     description: A Helm chart for Kubernetes for zlshop-shopping
     digest: 3ab60017975781ea542b27b635041df781aa43bbf0c6487c1b5eb04190444879
     name: zlshop-shopping
@@ -158,11 +158,11 @@ entries:
     version: 1.0.32-SNAPSHOT
   - apiVersion: v1
     appVersion: 1.0.2-SNAPSHOT
-    created: 2019-09-02T09:16:43.890828575Z
+    created: 2019-09-02T10:14:57.115376254Z
     description: A Helm chart for Kubernetes for zlshop-shopping
     digest: 2788572e4141fc4bfb226cb3fd4a3de498ffabed44677795029970a1470dde81
     name: zlshop-shopping
     urls:
     - https://charts.credit2go.cn/candidates/zlshop/zlshop-shopping-1.0.2-SNAPSHOT.tgz
     version: 1.0.2-SNAPSHOT
-generated: 2019-09-02T09:16:43.60276667Z
+generated: 2019-09-02T10:14:56.987049823Z

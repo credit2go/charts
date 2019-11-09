@@ -3,7 +3,7 @@ entries:
   apigateway:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2019-11-09T06:19:52.525229561Z
+    created: 2019-11-09T12:22:20.423977116Z
     description: A Helm chart for Kubernetes for apigateway
     digest: d26704fafe8ed500d026e8a7241201189109034171f4102c6cd88b4ff9ec1a4c
     name: apigateway
@@ -12,7 +12,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-11-09T06:19:52.419267558Z
+    created: 2019-11-09T12:22:20.383588941Z
     description: A Helm chart for Kubernetes for apigateway
     digest: 86c0b009435a700c78821bf273fb934ff8617b468304357606e5e84fccfa5f81
     name: apigateway
@@ -22,7 +22,7 @@ entries:
   auth:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-11-09T06:19:51.595102634Z
+    created: 2019-11-09T12:22:20.04704655Z
     description: A Helm chart for Kubernetes for Centralized-Auth
     digest: f096e26d18d0fcb86c9f89eb18d27a6dfc4d0ba740dd3affab85d6885a09235a
     name: auth
@@ -32,9 +32,9 @@ entries:
   bms:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-11-09T06:19:52.594728165Z
+    created: 2019-11-09T12:22:20.488096346Z
     description: A Helm chart for Kubernetes for bms
-    digest: 1be2623effba60ac2e62406ce19da55932f68410d2a17502b791803bcfa301cc
+    digest: fcb6c62dc5007a257933f91efa25d3a11e5b09aa89c5b8dc8e5d914d3ec4aa56
     name: bms
     urls:
     - https://charts.credit2go.cn/releases/jxhmall/bms-1.0.0.tgz
@@ -42,9 +42,9 @@ entries:
   coupon-svc:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-11-09T06:19:52.662086684Z
+    created: 2019-11-09T12:22:20.514954222Z
     description: A Helm chart for Kubernetes for coupon-svc
-    digest: 9cf467001f05b4888d2f1175c3d22e41b5d0cb6f7b19206b2d2e87bd3f48bf99
+    digest: 6c1f06ac579feecccd30942545367f7b19d6842b981de50b029e3ee6c1e2689b
     name: coupon-svc
     urls:
     - https://charts.credit2go.cn/releases/jxhmall/coupon-svc-1.0.0.tgz
@@ -52,7 +52,7 @@ entries:
   fitness:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2019-11-09T06:19:52.025896398Z
+    created: 2019-11-09T12:22:20.207027363Z
     description: A Helm chart for Kubernetes for fitness
     digest: 64119bb5d248afdfd0d0f2143f762a4f7512a2a96c5e8ac737a96e4f4bbef165
     name: fitness
@@ -61,7 +61,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-11-09T06:19:51.921316297Z
+    created: 2019-11-09T12:22:20.173833116Z
     description: A Helm chart for Kubernetes for fitness
     digest: f28d92aabc1f6e9219a1d04a350d87d1f952ff4d3e02cf916e3587ff55070602
     name: fitness
@@ -70,7 +70,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-11-09T06:19:51.870554546Z
+    created: 2019-11-09T12:22:20.143460156Z
     description: A Helm chart for Kubernetes for fitness
     digest: 76811bf87d917774a799fe8739ff21cbefb5c659811505b50647ed38afae03ea
     name: fitness
@@ -79,7 +79,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.0.5
-    created: 2019-11-09T06:19:51.771008398Z
+    created: 2019-11-09T12:22:20.113520764Z
     description: A Helm chart for Kubernetes for fitness
     digest: 2a408119df924ba95b2db5a225940ee4d971ebbe13acf21aa720230e3f43f67b
     name: fitness
@@ -88,7 +88,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: 2019-11-09T06:19:51.675783163Z
+    created: 2019-11-09T12:22:20.093428102Z
     description: A Helm chart for Kubernetes for fitness
     digest: 0f1215b4e541256c5cf2db576185e25b8cc56fffc8930339c6c34e7b5bb3f92c
     name: fitness
@@ -98,7 +98,7 @@ entries:
   fitness-operation:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2019-11-09T06:19:52.363299076Z
+    created: 2019-11-09T12:22:20.354132897Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: a760025ba4b187344102c55410e356cfa950940e2cf0b1f7a4e8a7bc9e4e58e9
     name: fitness-operation
@@ -107,7 +107,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-11-09T06:19:52.229127313Z
+    created: 2019-11-09T12:22:20.337743138Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: 5da698fa8bb36f6d8637f9e3d7447837617e132d8b715c17f0c6ebf97938e7b1
     name: fitness-operation
@@ -116,7 +116,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-11-09T06:19:52.151651608Z
+    created: 2019-11-09T12:22:20.299010915Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: 0fd44ed4e43da582238879c530e623b25072aa10423970c6369cf16a7df4139a
     name: fitness-operation
@@ -125,7 +125,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.0.5
-    created: 2019-11-09T06:19:52.120036907Z
+    created: 2019-11-09T12:22:20.263533018Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: f1559b80ca98e5e8f1e83bd4ab13776e711bb5d53a6df05d7498a43b4f84b21f
     name: fitness-operation
@@ -134,7 +134,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: 2019-11-09T06:19:52.099836778Z
+    created: 2019-11-09T12:22:20.234118519Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: e7398fc3dcbb990f43fc0ea492c3ee298cf3358975344c1461f574708d4cd4c0
     name: fitness-operation
@@ -144,9 +144,9 @@ entries:
   htadapter-svc:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-11-09T06:19:52.673480785Z
+    created: 2019-11-09T12:22:20.523002643Z
     description: A Helm chart for Kubernetes for htadapter-svc
-    digest: d1f0300d872815cb49a3940fa233a4a0042d095cde46eff1607b122ec28a8157
+    digest: 4af914ac405d48a9103a2d60498b4b66539b622c2990e819f0aa02bcf0b30ecf
     name: htadapter-svc
     urls:
     - https://charts.credit2go.cn/releases/jxhmall/htadapter-svc-1.0.0.tgz
@@ -154,7 +154,7 @@ entries:
   instalment:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-11-09T06:19:52.56347867Z
+    created: 2019-11-09T12:22:20.463080095Z
     description: A Helm chart for Kubernetes for instalment
     digest: a1046fe08c13aeff11c29ae64f32f2e64064bc60bee9c6f10caacb3fbc1741a5
     name: instalment
@@ -164,7 +164,7 @@ entries:
   lottery-manager:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2019-11-09T06:19:52.841215222Z
+    created: 2019-11-09T12:22:20.612315557Z
     description: A Helm chart for Kubernetes for lottery-manager
     digest: c4b440c99cc256a825af261fc29d6c778db84fadd42b5f6ae91d78ac6ef664b5
     name: lottery-manager
@@ -173,7 +173,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-11-09T06:19:52.815059725Z
+    created: 2019-11-09T12:22:20.600620936Z
     description: A Helm chart for Kubernetes for lottery-manager
     digest: b711ba03518b646844cb2eb1134fef9b26dbf2d9ee5a8b4956164ab5824b6d30
     name: lottery-manager
@@ -183,7 +183,7 @@ entries:
   lottery-server:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2019-11-09T06:19:52.899727909Z
+    created: 2019-11-09T12:22:20.628555144Z
     description: A Helm chart for Kubernetes for lottery-server
     digest: f3fa82f8079917dd22f89b53bc57501d0bbedbc1057e1103fbdb34ac6ef75792
     name: lottery-server
@@ -192,7 +192,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-11-09T06:19:52.879006274Z
+    created: 2019-11-09T12:22:20.619994002Z
     description: A Helm chart for Kubernetes for lottery-server
     digest: a56726c3041b0f9f07cc53f8b8995047fe5e12a0241df8729b97339250a8a27d
     name: lottery-server
@@ -202,7 +202,7 @@ entries:
   notifysvc:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-11-09T06:19:52.938274681Z
+    created: 2019-11-09T12:22:20.668671445Z
     description: A Helm chart for Kubernetes for notifysvc
     digest: c5a50bed6c42c3f50fc51697854d5402dd0d94056b1ab026725edb381a9c17a6
     name: notifysvc
@@ -212,7 +212,7 @@ entries:
   oms:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-11-09T06:19:52.966397378Z
+    created: 2019-11-09T12:22:20.710778915Z
     description: A Helm chart for Kubernetes for oms
     digest: b24dbbaa3315b19c0ff3eaa0761d5d039222aed0b4a5738b6186a0f44a5445a2
     name: oms
@@ -222,9 +222,9 @@ entries:
   online:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-11-09T06:19:52.709117488Z
+    created: 2019-11-09T12:22:20.548050829Z
     description: A Helm chart for Kubernetes for online
-    digest: 6cdc193b9e374e6e969b979cbbf012d7bcdcf098ecfc4c3a28a9d5223659e0a0
+    digest: b1029d324ee14d6f3186a809b2fbc59b8318b8367e8cc8cf4d3f7e38774af937
     name: online
     urls:
     - https://charts.credit2go.cn/releases/jxhmall/online-1.0.0.tgz
@@ -232,9 +232,9 @@ entries:
   order-svc:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-11-09T06:19:52.752483628Z
+    created: 2019-11-09T12:22:20.55480023Z
     description: A Helm chart for Kubernetes for order-svc
-    digest: 5cc7964c1dc4d05731cda702a29d0a07933942729c2d8230014ee9513edf23fb
+    digest: 0c2a0478210a42d7885e55e11d29db4d4fad28b32d0239f08268fd9332fc6386
     name: order-svc
     urls:
     - https://charts.credit2go.cn/releases/jxhmall/order-svc-1.0.0.tgz
@@ -242,9 +242,9 @@ entries:
   payment-svc:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-11-09T06:19:52.763812081Z
+    created: 2019-11-09T12:22:20.563820446Z
     description: A Helm chart for Kubernetes for payment-svc
-    digest: 2ef6ea0b661e4279f7d50952f853458ba246e55a3354445cf52c5e962380b877
+    digest: accad1c5722d9a3f8496c67136d1097ce58502c8127bb681a7fea850f0ee5637
     name: payment-svc
     urls:
     - https://charts.credit2go.cn/releases/jxhmall/payment-svc-1.0.0.tgz
@@ -252,9 +252,9 @@ entries:
   product-svc:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-11-09T06:19:52.77538549Z
+    created: 2019-11-09T12:22:20.572018557Z
     description: A Helm chart for Kubernetes for product-svc
-    digest: c36c8c25fa1bfad6f90b9132d81368c8fdd514dd4d1af01cd5131c9a26a042a5
+    digest: 2e35a772ef9e700b151ef9ada04e58ce51e1891a730832bb6a13512cf381175e
     name: product-svc
     urls:
     - https://charts.credit2go.cn/releases/jxhmall/product-svc-1.0.0.tgz
@@ -262,9 +262,9 @@ entries:
   usercenter-svc:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-11-09T06:19:52.791267337Z
+    created: 2019-11-09T12:22:20.581448877Z
     description: A Helm chart for Kubernetes for usercenter-svc
-    digest: 85a8a97c9110c031ed231243cb993aa90bf91954ab684dccdc461f810e1ec8b0
+    digest: a7f0576d34a2e4a4648e387d5b67568129835afd4dcee37fba56d3c4714553fa
     name: usercenter-svc
     urls:
     - https://charts.credit2go.cn/releases/jxhmall/usercenter-svc-1.0.0.tgz
@@ -272,7 +272,7 @@ entries:
   zlshop-operation:
   - apiVersion: v1
     appVersion: 1.0.32
-    created: 2019-11-09T06:19:52.988817259Z
+    created: 2019-11-09T12:22:20.743412106Z
     description: A Helm chart for Kubernetes for zlshop-operation
     digest: 83a1ce8c75167754b2e0bb495eecb72eb1fa51abd138ac2bfb56fbc5e51ad661
     name: zlshop-operation
@@ -282,11 +282,11 @@ entries:
   zlshop-shopping:
   - apiVersion: v1
     appVersion: 1.0.32
-    created: 2019-11-09T06:19:53.023812067Z
+    created: 2019-11-09T12:22:20.757945907Z
     description: A Helm chart for Kubernetes for zlshop-shopping
     digest: 70cf21a549ff0c9912d5636d4b71ec8584f619b02dbb294e78814ed057241ea4
     name: zlshop-shopping
     urls:
     - https://charts.credit2go.cn/releases/zlshop/zlshop-shopping-1.0.32.tgz
     version: 1.0.32
-generated: 2019-11-09T06:19:51.545302483Z
+generated: 2019-11-09T12:22:20.016817493Z

@@ -3,7 +3,7 @@ entries:
   adapter-api:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: 2020-01-07T05:16:26.171489511Z
+    created: 2020-01-07T06:16:04.396555242Z
     description: A Helm chart for Kubernetes for adapter-api
     digest: f16eebc3dcf65bf1f3ccb3e36471978b1da85adab59e85f3dea07c3df73f4694
     name: adapter-api
@@ -13,7 +13,7 @@ entries:
   apigateway:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2020-01-07T05:16:26.026956113Z
+    created: 2020-01-07T06:16:04.310784532Z
     description: A Helm chart for Kubernetes for apigateway
     digest: e406adb8cbfdffea97db25e1f7a9dcc71c862bf2db2b448ede73228f6f0d3ce7
     name: apigateway
@@ -22,7 +22,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2020-01-07T05:16:25.956319035Z
+    created: 2020-01-07T06:16:04.271256054Z
     description: A Helm chart for Kubernetes for apigateway
     digest: 86c0b009435a700c78821bf273fb934ff8617b468304357606e5e84fccfa5f81
     name: apigateway
@@ -32,7 +32,7 @@ entries:
   auth:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2020-01-07T05:16:23.427998168Z
+    created: 2020-01-07T06:16:03.767902307Z
     description: A Helm chart for Kubernetes for Centralized-Auth
     digest: 4b0671479357ab7b6f35307ee4887133d324d701ef19eb1ebeade9a2fce874eb
     name: auth
@@ -41,7 +41,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-01-07T05:16:23.280217585Z
+    created: 2020-01-07T06:16:03.700640833Z
     description: A Helm chart for Kubernetes for Centralized-Auth
     digest: b7c739cfe9a4313fc82a04cca1e590d97ec9635e01e5fa8a36cc16c43be2d6fa
     name: auth
@@ -51,7 +51,7 @@ entries:
   bms:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: 2020-01-07T05:16:26.382211632Z
+    created: 2020-01-07T06:16:04.467903523Z
     description: A Helm chart for Kubernetes for bms
     digest: 737057d304d3f75ea8d6824c818a506ffdfaaf4fc5180b35322acced856b78c0
     name: bms
@@ -60,7 +60,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-01-07T05:16:26.275920503Z
+    created: 2020-01-07T06:16:04.424705795Z
     description: A Helm chart for Kubernetes for bms
     digest: 56ebcef9d8b63cc1a5b3e945d3f29db0bfe2cc90f7476d28f36f838656790933
     name: bms
@@ -70,7 +70,7 @@ entries:
   coupon-svc:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: 2020-01-07T05:16:26.611917401Z
+    created: 2020-01-07T06:16:04.55372831Z
     description: A Helm chart for Kubernetes for coupon-svc
     digest: ff96c1976751f4d1d8c9cc521581e02657f379f952fbfefa8879315d6c90697e
     name: coupon-svc
@@ -79,7 +79,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-01-07T05:16:26.521627794Z
+    created: 2020-01-07T06:16:04.522106333Z
     description: A Helm chart for Kubernetes for coupon-svc
     digest: 09d3b19385ad23d81cc6e84e9ac34b6a84dabb4a63c874b6e83dcd446a5d89f2
     name: coupon-svc
@@ -89,7 +89,7 @@ entries:
   fitness:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2020-01-07T05:16:23.881179589Z
+    created: 2020-01-07T06:16:04.028227249Z
     description: A Helm chart for Kubernetes for fitness
     digest: ed33c36022f4c358394157aef0ae05bf747fe44824c849ff29675eceeaae00f5
     name: fitness
@@ -98,7 +98,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2020-01-07T05:16:23.774612928Z
+    created: 2020-01-07T06:16:03.997335777Z
     description: A Helm chart for Kubernetes for fitness
     digest: f28d92aabc1f6e9219a1d04a350d87d1f952ff4d3e02cf916e3587ff55070602
     name: fitness
@@ -107,7 +107,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-01-07T05:16:23.675249135Z
+    created: 2020-01-07T06:16:03.968546354Z
     description: A Helm chart for Kubernetes for fitness
     digest: 76811bf87d917774a799fe8739ff21cbefb5c659811505b50647ed38afae03ea
     name: fitness
@@ -116,7 +116,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.0.5
-    created: 2020-01-07T05:16:23.569774475Z
+    created: 2020-01-07T06:16:03.892972916Z
     description: A Helm chart for Kubernetes for fitness
     digest: 2a408119df924ba95b2db5a225940ee4d971ebbe13acf21aa720230e3f43f67b
     name: fitness
@@ -125,7 +125,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: 2020-01-07T05:16:23.456528048Z
+    created: 2020-01-07T06:16:03.848670607Z
     description: A Helm chart for Kubernetes for fitness
     digest: 0f1215b4e541256c5cf2db576185e25b8cc56fffc8930339c6c34e7b5bb3f92c
     name: fitness
@@ -135,7 +135,7 @@ entries:
   fitness-operation:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2020-01-07T05:16:25.196921322Z
+    created: 2020-01-07T06:16:04.232639744Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: d485d0e122ab280fb93a680df3c1c6c7f64710d3e8350920c66ab7f6f9cda1c2
     name: fitness-operation
@@ -144,7 +144,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2020-01-07T05:16:24.381848334Z
+    created: 2020-01-07T06:16:04.194003923Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: 5da698fa8bb36f6d8637f9e3d7447837617e132d8b715c17f0c6ebf97938e7b1
     name: fitness-operation
@@ -153,7 +153,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-01-07T05:16:24.261713121Z
+    created: 2020-01-07T06:16:04.15218019Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: 0fd44ed4e43da582238879c530e623b25072aa10423970c6369cf16a7df4139a
     name: fitness-operation
@@ -162,7 +162,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.0.5
-    created: 2020-01-07T05:16:24.163722684Z
+    created: 2020-01-07T06:16:04.104425324Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: f1559b80ca98e5e8f1e83bd4ab13776e711bb5d53a6df05d7498a43b4f84b21f
     name: fitness-operation
@@ -171,7 +171,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: 2020-01-07T05:16:23.974122524Z
+    created: 2020-01-07T06:16:04.061182791Z
     description: A Helm chart for Kubernetes for fitness-operation
     digest: e7398fc3dcbb990f43fc0ea492c3ee298cf3358975344c1461f574708d4cd4c0
     name: fitness-operation
@@ -181,7 +181,7 @@ entries:
   htadapter-svc:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: 2020-01-07T05:16:26.83841416Z
+    created: 2020-01-07T06:16:04.603174028Z
     description: A Helm chart for Kubernetes for htadapter-svc
     digest: b4b636b16bf648803fd55571007719bff30244f8d061dd5955f0253580b29397
     name: htadapter-svc
@@ -190,7 +190,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-01-07T05:16:26.713788058Z
+    created: 2020-01-07T06:16:04.575096116Z
     description: A Helm chart for Kubernetes for htadapter-svc
     digest: 1d58ffc52f890c82ce8a8b46e2b64f1c6030e9c1108b7b6c95ab8a439c9dfb77
     name: htadapter-svc
@@ -200,7 +200,7 @@ entries:
   instalment:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2020-01-07T05:16:26.119018939Z
+    created: 2020-01-07T06:16:04.353949671Z
     description: A Helm chart for Kubernetes for instalment
     digest: 889e8bd782ca40e462f88779fb55beb218f0a38ddde927402b9fcab46f3ddd37
     name: instalment
@@ -210,7 +210,7 @@ entries:
   jxhmall-ui:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: 2020-01-07T05:16:26.953580991Z
+    created: 2020-01-07T06:16:04.62339585Z
     description: A Helm chart for Kubernetes for jxhmall-ui
     digest: 89263f46a18bd6da4b119e7c6ef2193c457794fdc2eaca83d71f9ba1663c8586
     name: jxhmall-ui
@@ -220,7 +220,7 @@ entries:
   library:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-01-07T05:16:23.165711419Z
+    created: 2020-01-07T06:16:03.643039248Z
     description: A common library for Helm Chart
     digest: f6e8c526737ea9fcde236c90a456f8b44513593e770050abd209902a21293e8d
     name: library
@@ -230,7 +230,7 @@ entries:
   lottery-manager:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2020-01-07T05:16:29.2419828Z
+    created: 2020-01-07T06:16:04.95551995Z
     description: A Helm chart for Kubernetes for lottery-manager
     digest: c4b440c99cc256a825af261fc29d6c778db84fadd42b5f6ae91d78ac6ef664b5
     name: lottery-manager
@@ -239,7 +239,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2020-01-07T05:16:28.612401239Z
+    created: 2020-01-07T06:16:04.866460464Z
     description: A Helm chart for Kubernetes for lottery-manager
     digest: f9bfd06617fff3610b95be5a2576a0863ee26a9bfaed3da8a7d64ebd58d5438e
     name: lottery-manager
@@ -249,7 +249,7 @@ entries:
   lottery-server:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2020-01-07T05:16:29.965317743Z
+    created: 2020-01-07T06:16:05.080475567Z
     description: A Helm chart for Kubernetes for lottery-server
     digest: f3fa82f8079917dd22f89b53bc57501d0bbedbc1057e1103fbdb34ac6ef75792
     name: lottery-server
@@ -258,7 +258,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2020-01-07T05:16:29.449605504Z
+    created: 2020-01-07T06:16:05.031072855Z
     description: A Helm chart for Kubernetes for lottery-server
     digest: 999625ddadb226166b7e252caeea2ccfdf111b078ef32d9b2458095a5fb308d6
     name: lottery-server
@@ -268,7 +268,7 @@ entries:
   notifysvc:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2020-01-07T05:16:30.548791527Z
+    created: 2020-01-07T06:16:05.148892047Z
     description: A Helm chart for Kubernetes for notifysvc
     digest: 999d1def533cc7207d7ee9e8a764180c68bf03ce3abf4bbd68f2d5b3e51eb397
     name: notifysvc
@@ -277,7 +277,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2020-01-07T05:16:30.340231652Z
+    created: 2020-01-07T06:16:05.110199018Z
     description: A Helm chart for Kubernetes for notifysvc
     digest: c5a50bed6c42c3f50fc51697854d5402dd0d94056b1ab026725edb381a9c17a6
     name: notifysvc
@@ -287,7 +287,7 @@ entries:
   oms:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2020-01-07T05:16:30.698711404Z
+    created: 2020-01-07T06:16:05.229992319Z
     description: A Helm chart for Kubernetes for oms
     digest: 21dd9baffda7690dfcdfc57900a492c6e205391e5812a8b9c519470fb0a26254
     name: oms
@@ -296,7 +296,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2020-01-07T05:16:30.580110072Z
+    created: 2020-01-07T06:16:05.200571735Z
     description: A Helm chart for Kubernetes for oms
     digest: b24dbbaa3315b19c0ff3eaa0761d5d039222aed0b4a5738b6186a0f44a5445a2
     name: oms
@@ -306,7 +306,7 @@ entries:
   online:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: 2020-01-07T05:16:27.210658547Z
+    created: 2020-01-07T06:16:04.666200693Z
     description: A Helm chart for Kubernetes for online
     digest: 29618a9295ba4aa718b07af2fb4ce00b0778ae59b0f0fa0cabfeb3538ebe1cc0
     name: online
@@ -315,7 +315,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-01-07T05:16:27.081575123Z
+    created: 2020-01-07T06:16:04.644001288Z
     description: A Helm chart for Kubernetes for online
     digest: b91c2eb8e5c2d027b9404e4bf95fb9afe338a6bf4ff17fe5e853729f7ab6539b
     name: online
@@ -325,7 +325,7 @@ entries:
   order-svc:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: 2020-01-07T05:16:27.396519508Z
+    created: 2020-01-07T06:16:04.703619703Z
     description: A Helm chart for Kubernetes for order-svc
     digest: 6e754c27745dbaa14b916bd83089e1af2041ee00ed283ed38b86a78fbb782fdc
     name: order-svc
@@ -334,7 +334,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-01-07T05:16:27.29648681Z
+    created: 2020-01-07T06:16:04.683240932Z
     description: A Helm chart for Kubernetes for order-svc
     digest: 3834c05cdd0c759d57f0651d0f6a0fe39c9c0911015ee07454f804c2e639863c
     name: order-svc
@@ -344,7 +344,7 @@ entries:
   payment-svc:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: 2020-01-07T05:16:27.628216302Z
+    created: 2020-01-07T06:16:04.743413243Z
     description: A Helm chart for Kubernetes for payment-svc
     digest: 3800caafe22e9fcf00f501a76a931535aa55e0428f00fb552dc4940052f7e0b1
     name: payment-svc
@@ -353,7 +353,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-01-07T05:16:27.483482481Z
+    created: 2020-01-07T06:16:04.722645322Z
     description: A Helm chart for Kubernetes for payment-svc
     digest: 6bb1bab040e94480639bbd2217ff56068cbf395217ca68df50b18bd271206ae3
     name: payment-svc
@@ -363,7 +363,7 @@ entries:
   product-svc:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: 2020-01-07T05:16:27.85845179Z
+    created: 2020-01-07T06:16:04.792174312Z
     description: A Helm chart for Kubernetes for product-svc
     digest: 1c311ec89d346858c7f9b0630f621894f240ae2af6ce5bdf675135415b0021f3
     name: product-svc
@@ -372,7 +372,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-01-07T05:16:27.742592898Z
+    created: 2020-01-07T06:16:04.768758384Z
     description: A Helm chart for Kubernetes for product-svc
     digest: e9edc1ba0e28d00f5ed00ca92ae6ed5cf911b6b24c129574059a0a8400d5fc3f
     name: product-svc
@@ -382,7 +382,7 @@ entries:
   usercenter-svc:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: 2020-01-07T05:16:28.200244387Z
+    created: 2020-01-07T06:16:04.83018082Z
     description: A Helm chart for Kubernetes for usercenter-svc
     digest: a67332e05f29e738cc80ef74aae6d74ff5b78fbfe77aebc92ad1f774d33561fd
     name: usercenter-svc
@@ -391,7 +391,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-01-07T05:16:27.954688536Z
+    created: 2020-01-07T06:16:04.81507044Z
     description: A Helm chart for Kubernetes for usercenter-svc
     digest: f96d143c65a236df2712a226661b8693f2ac7eaae6e9056eb99a6e69ad0c3259
     name: usercenter-svc
@@ -401,7 +401,7 @@ entries:
   zlshop-operation:
   - apiVersion: v1
     appVersion: 1.0.32
-    created: 2020-01-07T05:16:30.914117283Z
+    created: 2020-01-07T06:16:05.255635779Z
     description: A Helm chart for Kubernetes for zlshop-operation
     digest: 83a1ce8c75167754b2e0bb495eecb72eb1fa51abd138ac2bfb56fbc5e51ad661
     name: zlshop-operation
@@ -411,11 +411,11 @@ entries:
   zlshop-shopping:
   - apiVersion: v1
     appVersion: 1.0.32
-    created: 2020-01-07T05:16:31.088846498Z
+    created: 2020-01-07T06:16:05.276859061Z
     description: A Helm chart for Kubernetes for zlshop-shopping
     digest: 70cf21a549ff0c9912d5636d4b71ec8584f619b02dbb294e78814ed057241ea4
     name: zlshop-shopping
     urls:
     - https://charts.credit2go.cn/releases/zlshop/zlshop-shopping-1.0.32.tgz
     version: 1.0.32
-generated: 2020-01-07T05:16:23.037236258Z
+generated: 2020-01-07T06:16:03.54540051Z

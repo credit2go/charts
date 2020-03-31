@@ -1,7 +1,7 @@
 #!/usr/bin/env groovy
 
 def label = "builder-${UUID.randomUUID().toString()}"
-podTemplate(label: label, yaml: libraryResource('kubernetes/builder.yaml')) {
+podTemplate(label: label, yaml: libraryResource('kubernetes/deploy.yaml')) {
     node(label) {
         container('slave') {
             timeout(activity: true, time: 5) {

@@ -1,9 +1,9 @@
 #!/usr/bin/env groovy
 
-def label = "builder-${UUID.randomUUID().toString()}"
+def label = "deploy-${UUID.randomUUID().toString()}"
 podTemplate(label: label, yaml: libraryResource('kubernetes/deploy.yaml')) {
     node(label) {
-        container('slave') {
+        container('deploy') {
             timeout(activity: true, time: 5) {
                 //config git to enable commit and push to github
                 gitlabUtil.writeGlobalGITConfigFile()
